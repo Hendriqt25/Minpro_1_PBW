@@ -67,7 +67,7 @@ Pada About Me ini berfungsi menampilkan profil lengkap, pengalaman, dan skill de
 
 <img width="814" height="466" alt="image" src="https://github.com/user-attachments/assets/8020633a-9c65-4f74-af13-b6e61ec2e51a" />
 
-pada "v-for="skill in skills" :key="skill.name""berfungsi mengulang setiap skill yang ada di data vue dan menampilkan nama serta persentase skillnya. kemudian pad a":style="{ width: skill.level + '%' }"" berfungsi Mengatur lebar progress barnya dan pada {{ skill.level }}% berfungsi menampilkan angka persentase di dalam progress bar.
+pada "v-for="skill in skills" :key="skill.name""berfungsi mengulang setiap skill yang ada di data vue dan menampilkan nama serta persentase skillnya. kemudian pad a":style="{ width: skill.level + '%' }"" berfungsi Mengatur lebar progress barnya dan pada "{{ skill.level }}%" berfungsi menampilkan angka persentase di dalam progress bar.
 
 ### Certificates 
 
