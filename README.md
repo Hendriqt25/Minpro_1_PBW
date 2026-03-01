@@ -57,7 +57,7 @@ pada hero ini menggunakan bootstrip dengan layout dua kolom dimana sisi kiri men
 
 <img width="717" height="196" alt="image" src="https://github.com/user-attachments/assets/f0902b5b-ec50-46cc-9948-9c11cb1c3be0" />
 
-pada variabel {{ name }} berfungsi untuk mengubah nama sesuai data yang diberikan pada vue. kemudian Elemen <p>{{ role }}</p> berfungsi menampilkan posisi atau bidang keahlian, sedangkan <p>{{ description }}</p> berfungsi untuk menampilkan deskripsi singkat mengenai profil pengguna.
+pada variabel "{{ name }}" berfungsi untuk mengubah nama sesuai data yang diberikan pada vue. kemudian pada "{{ role }}" berfungsi menampilkan posisi atau bidang keahlian, sedangkan "{{ description }}" berfungsi untuk menampilkan deskripsi singkat mengenai profil pengguna.
 
 ### About Me
 
